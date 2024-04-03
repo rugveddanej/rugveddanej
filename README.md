@@ -50,4 +50,4 @@ git push origin master
 rugveddanej
 ```
 
-- Put Token from https://github/settings/tokens
+- Put Token from https://github.com/settings/tokens
