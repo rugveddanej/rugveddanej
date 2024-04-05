@@ -4,4 +4,4 @@ Hi, I'm **Rugved**
 
 [![](https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&theme=radical&hide_title=1&include_all_commits=true)](https://github.com/rugveddanej)
 
-<a href="https://rugved.vercel.app">Website</a>
+<a href="https://rugveddanej.me">Website</a>
