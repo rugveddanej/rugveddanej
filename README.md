@@ -1,5 +1,5 @@
 ![logo](https://github.com/rugveddanej/rugveddanej/blob/main/my-avatar.png)
-<h1 align="center">Hi 👋, I'm Rugved</h1>
+<h1 align="center">Hi! I'm Rugved</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugveddanej&label=Visitors&color=ff5e5e&style=flat" alt="rugveddanej" /> </p>
 
