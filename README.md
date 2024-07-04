@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugveddanej&label=Visitors&color=ff5e5e&style=for-the-badge&base=1098&abbreviated=true" alt="rugveddanej" /> </p>
 
- <span style="color:#ff5e5e">- 📝 My Portfolio [Website](https://rugveddanej.me)</span>
+- 📝 My Portfolio [Website](https://rugveddanej.me)</span>
 
 - 📄 All of My Projects are Available at [Website](https://rugveddanej.me)
 
