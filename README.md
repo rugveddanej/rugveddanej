@@ -20,7 +20,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rugveddanej&langs_count=5&layout=pie&title_color=ff5e5e&text_color=ff5e5e&border_color=3f3f3f&bg_color=DEG,000000,111111,222222&border_radius=4.5" alt="rugveddanej"/>
 </a>
 </p>
-<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&theme=onedark&locale=en" alt="rugveddanej" /></p>
 
