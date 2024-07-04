@@ -1,7 +1,7 @@
 ![logo](https://github.com/rugveddanej/rugveddanej/blob/main/my-avatar.png)
 <h1 align="center">Yo! I'm Rugved</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rugveddanej&label=Visitors&color=ff5e5e&style=for-the-badge&base=1000&abbreviated=true" alt="rugveddanej" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rugveddanej&label=Visitors&color=ff5e5e&style=for-the-badge&base=1098&abbreviated=true" alt="rugveddanej" /> </p>
 
 - 📝 My Portfolio [Website](https://rugveddanej.me)
 
