@@ -22,6 +22,6 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&theme=onedark&locale=en" alt="rugveddanej" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&title_color=ff5e5e&text_color=ff5e5e&border_color=3f3f3f&bg_color=DEG,000000,111111,222222&border_radius=4.5" alt="rugveddanej" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=onedark&" alt="rugveddanej" /></p>
