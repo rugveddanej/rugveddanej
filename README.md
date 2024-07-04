@@ -27,4 +27,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&title_color=ff5e5e&icon_color=ff5e5e&text_color=c44343&border_color=3f3f3f&bg_color=DEG,000000,111111,222222&border_radius=4.5&custom_title=Github%20Stats&include_all_commits=true&line_height=28&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="rugveddanej"/></p>
 </a>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=onedark&" alt="rugveddanej" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&title_color=ff5e5e&icon_color=ff5e5e&text_color=c44343&border=3f3f3f&background=DEG,000000,111111,222222&border_radius=4.5" alt="rugveddanej" /></p>
