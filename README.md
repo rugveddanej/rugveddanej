@@ -13,6 +13,13 @@ Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technol
 - [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
   A script that helps you for project slayer roblox game.
 
+## ❄️ Website
+<p align="center">
+  <a href="https://rugveddanej.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=f3f7fa" />
+  </a>
+</p>
+
 ## ❄️ Fun Facts
 - **Did you know?** Snowflakes can have up to 200 intricate branches!
 - The largest snowflake on record was 15 inches wide.
@@ -46,7 +53,3 @@ Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technol
 
 ## 🏆 Achievements
 - ![Trophies](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=onedark)
-
-## 💬 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
