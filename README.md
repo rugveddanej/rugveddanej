@@ -6,13 +6,8 @@
   <img src="https://example.com/snowfall.gif" width="800" height="200" alt="Snowfall Animation">
 </div>
 
-## About Me
-Hi, I'm John Doe! A passionate developer, always pushing the boundaries of technology.
-- 🏂 Snowboarding enthusiast
-- 🔭 Exploring the frontiers of technology
-- 🎨 Integrating art and code seamlessly
-- 🧠 AI and Machine Learning aficionado
-- ⚙️ Developer of ultra-optimized applications
+## ❄️ About Me
+Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technology.
 
 ## ❄️ Winter Projects
 - [**Snowflake Generator**](https://github.com/johndoe/snowflake-generator)  
