@@ -10,11 +10,8 @@
 Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technology.
 
 ## ❄️ Winter Projects
-- [**Snowflake Generator**](https://github.com/johndoe/snowflake-generator)  
-  Create unique, beautiful snowflakes with this highly-optimized generator.
-  
-- [**Winter Wonderland Website**](https://github.com/johndoe/winter-wonderland)  
-  A festive, incredibly designed website to celebrate the winter holidays.
+- [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
+  A script that helps you for project slayer roblox game.
 
 ## ❄️ Fun Facts
 - **Did you know?** Snowflakes can have up to 200 intricate branches!
@@ -24,7 +21,7 @@ Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technol
 <div align="center">
 
 ### ❄️ Let's Connect
-- ![GitHub followers](https://img.shields.io/github/followers/johndoe?style=social)
+- ![GitHub followers](https://img.shields.io/github/followers/rugveddanej?style=social)
 - ![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
 
