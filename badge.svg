@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30">
+  <rect width="150" height="30" fill="#ffffff"/>
+  <text x="10" y="20" fill="#000000" font-family="Arial" font-size="15">Visitors: 1234</text>
+</svg>
