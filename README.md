@@ -2,11 +2,9 @@
 
 <h2 align="center">Yo! I'm Rugved ❄️</h2>
 
-<div align="center">
-  <img src="https://example.com/snowfall.gif" width="800" height="200" alt="Snowfall Animation">
-</div>
-
 ## ❄️ About Me
+![Avatar](avatar.jpg)
+
 Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technology.
 
 ## ❄️ Winter Projects
