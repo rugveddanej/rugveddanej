@@ -21,21 +21,26 @@ Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technol
 <div align="center">
 
 ### ❄️ Let's Connect
-<div style="background-color: #000000; padding: 10px; display: inline-block;">
-  <img src="https://img.shields.io/github/followers/rugveddanej?style=social" alt="GitHub followers">
-</div>
-<div style="background-color: #000000; padding: 10px; display: inline-block;">
-  <img src="https://img.shields.io/twitter/follow/rugved_danej?style=social" alt="Twitter Follow">
-</div>
+<p align="center">
+  <a href="https://twitter.com/rugved_danej">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rugved_danej/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1268118820720083027">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ### ❄️ GitHub Stats
-![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=snow)
+![Rugved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&theme=snow)
 
 ### ❄️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=snow)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&layout=compact&theme=snow)
 
 ### ❄️ Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=snow)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=snow)
 
 </div>
 
