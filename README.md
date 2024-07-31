@@ -22,8 +22,7 @@ Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technol
 
 ### ❄️ Let's Connect
 - ![GitHub followers](https://img.shields.io/github/followers/rugveddanej?style=social)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
+- ![Twitter Follow](https://img.shields.io/twitter/follow/rugved_danej?style=social)
 
 ### ❄️ GitHub Stats
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=snow)
