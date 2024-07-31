@@ -2,15 +2,17 @@
 
 <h2 align="center">Yo! I'm Rugved ❄️</h2>
 
-## ❄️ About Me
-![Avatar](avatar.jpg)
+<div align="center">
+  <img src="avatar.jpg" width="200" height="200" />
+</div>
 
-Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technology.
+## ❄️ About Me
+
+Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
 ## ❄️ Winter Projects
 - [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
-  A script that helps you for project slayer roblox game.
-
+  An ultra-optimized script for the Project Slayer Roblox game, designed to give you an unbeatable edge.
 ## ❄️ Website
 <p align="center">
   <a href="https://rugveddanej.me">
@@ -50,4 +52,6 @@ Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technol
 </div>
 
 ## 🏆 Achievements
-- ![Trophies](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=onedark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=onedark" alt="Trophies" />
+</div>
