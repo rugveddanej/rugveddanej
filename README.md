@@ -21,8 +21,12 @@ Hi, I'm Rugved! A passionate developer, always pushing the boundaries of technol
 <div align="center">
 
 ### ❄️ Let's Connect
-- ![GitHub followers](https://img.shields.io/github/followers/rugveddanej?style=social)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/rugved_danej?style=social)
+<div style="background-color: #000000; padding: 10px; display: inline-block;">
+  <img src="https://img.shields.io/github/followers/rugveddanej?style=social" alt="GitHub followers">
+</div>
+<div style="background-color: #000000; padding: 10px; display: inline-block;">
+  <img src="https://img.shields.io/twitter/follow/rugved_danej?style=social" alt="Twitter Follow">
+</div>
 
 ### ❄️ GitHub Stats
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=snow)
