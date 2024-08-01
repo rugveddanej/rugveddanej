@@ -1,4 +1,4 @@
-![Banner](ultimate-banner.gif)
+![Banner](ultimate-banner.jpg)
 
 <h2 align="center">Yo! I'm Rugved ❄️</h2>
 
