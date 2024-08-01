@@ -64,16 +64,6 @@ Hi, I'm Rugved! An unstoppable developer, constantly pushing the boundaries of t
   <img src="https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=onedark" alt="Trophies" />
 </div>
 
-## 💬 Testimonials
-> "Rugved's work is truly next-level. His optimization skills are unmatched!" - [Developer Peer]
-
-> "Using Rugved's LunaHub script enhanced my gaming experience like never before!" - [Happy User]
-
-## 📝 Latest Blog Posts
-- [How I Optimized My Codebase](https://rugveddanej.me/blog/optimization)
-- [The Future of Web Development](https://rugveddanej.me/blog/future-web-dev)
-- [Tips for New Developers](https://rugveddanej.me/blog/tips-new-devs)
-
 ## ❄️ Contact
 <p align="center">
   <a href="mailto:rugveddanej.mail@gmail.com">
