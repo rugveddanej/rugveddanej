@@ -49,6 +49,9 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ### ❄️ Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=snow)
 
+### ❄️ WakaTime Coding Activity
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=rugveddanej&theme=snow)
+
 </div>
 
 ## 🏆 Achievements
