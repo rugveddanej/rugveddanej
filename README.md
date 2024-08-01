@@ -3,28 +3,26 @@
 <h2 align="center">Yo! I'm Rugved ❄️</h2>
 
 <div align="center">
-  <img src="avatar.jpg" width="200" height="200" alt="Rugved's Avatar" />
+  <img src="avatar.jpg" width="200" height="200" />
 </div>
 
 ## ❄️ About Me
 
-Hi, I'm Rugved! An unstoppable developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs. My work is a nightmare for other developers and a marvel for users—superior, unbeatable, and next-level.
+Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
 ## ❄️ Winter Projects
 - [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
-  The ultimate script for the Project Slayer Roblox game, designed for unparalleled performance and unbeatable edge—an ultra-optimized, next-level experience.
-
+  An ultra-optimized script for the Project Slayer Roblox game, designed to give you an unbeatable edge.
 ## ❄️ Website
 <p align="center">
   <a href="https://rugveddanej.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=f3f7fa" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=f3f7fa" />
   </a>
 </p>
 
 ## ❄️ Fun Facts
 - **Did you know?** Snowflakes can have up to 200 intricate branches!
 - The largest snowflake on record was 15 inches wide.
-- I once coded an entire project in one sitting during a snowstorm!
 
 ## ✨ Interactive Section
 <div align="center">
@@ -32,13 +30,13 @@ Hi, I'm Rugved! An unstoppable developer, constantly pushing the boundaries of t
 ### ❄️ Let's Connect
 <p align="center">
   <a href="https://twitter.com/rugved_danej">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rugved_danej/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1268118820720083027">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -51,22 +49,9 @@ Hi, I'm Rugved! An unstoppable developer, constantly pushing the boundaries of t
 ### ❄️ Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=snow)
 
-### ❄️ Visitor Count
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=rugveddanej.visitor-badge)
-
-### ❄️ WakaTime Coding Activity
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=rugveddanej&theme=snow)
-
 </div>
 
 ## 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=onedark" alt="Trophies" />
 </div>
-
-## ❄️ Contact
-<p align="center">
-  <a href="mailto:rugveddanej.mail@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
