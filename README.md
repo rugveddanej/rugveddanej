@@ -3,12 +3,12 @@
 <h1 align="center">Yo! I'm Rugved ❄️</h1>
 
 <div align="center">
-  <img src="avatar.jpg" width="200" height="200" />
+  <img src="avatar.jpg" width="150" height="150" alt="Rugved's Avatar" />
 </div>
 
 ## ❄️ About Me
 
-Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs. I'm dedicated to creating the most advanced, unique, and ultra-professional solutions that leave other developers in awe.
+Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
 ## ❄️ Winter Projects
 - [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
@@ -16,14 +16,14 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaHub&theme=snow" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaHub&theme=snow" alt="LunaHub GitHub Stats" />
   </a>
 </p>
 
 ## ❄️ Website
 <p align="center">
   <a href="https://rugveddanej.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=f3f7fa" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=f3f7fa" alt="Portfolio" />
   </a>
 </p>
 
@@ -37,13 +37,13 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ### ❄️ Let's Connect
 <p align="center">
   <a href="https://twitter.com/rugved_danej">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/rugved_danej/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/1268118820720083027">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -93,18 +93,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 </div>
 
-## ❄️ Recent Contributions
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rugveddanej&theme=snow)
-
-## ❄️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://yourblog.com/post-url)
-- [Post Title](https://yourblog.com/post-url)
-<!-- BLOG-POST-LIST:END -->
-
-## ❄️ Latest YouTube Video
-[![Latest YouTube Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 ## ❄️ Testimonials
 > "A true innovator in the tech space." - Fiona
 
@@ -113,12 +101,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 ## ❄️ Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=rugveddanej&color=blue&style=flat)
-
-## ❄️ Coding Stats
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rugveddanej&layout=compact&theme=snow)
-
-## ❄️ GitHub Skyline
-[![GitHub Skyline](https://github.com/rugveddanej/skyline.png)](https://skyline.github.com/rugveddanej/2024)
 
 ## ❄️ Recent GitHub Activity
 <!--START_SECTION:activity-->
@@ -135,13 +117,13 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ## ❄️ Gists and Snippets
 <p align="center">
   <a href="https://gist.github.com/rugveddanej">
-    <img src="https://img.shields.io/badge/Gists-000000?style=for-the-badge&logo=github&logoColor=f3f7fa" />
+    <img src="https://img.shields.io/badge/Gists-000000?style=for-the-badge&logo=github&logoColor=f3f7fa" alt="Gists" />
   </a>
 </p>
 
 ## ❄️ Contact Me
 <p align="center">
   <a href="mailto:rugveddanej.mail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
