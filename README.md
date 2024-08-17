@@ -109,9 +109,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 > "A true innovator in the tech space." - Fiona
 
 ## ❄️ Projects Timeline
-- **2024**: Launched [LunaHub](https://github.com/rugveddanej/LunaHub)
-- **2023**: Developed an advanced AI chatbot
-- **2022**: Created a high-performance web application
+- **27th July 2024**: Launched [LunaHub](https://github.com/rugveddanej/LunaHub)
 
 ## ❄️ Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=rugveddanej&color=blue&style=flat)
