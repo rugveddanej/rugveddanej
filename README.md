@@ -102,18 +102,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ## ❄️ Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=rugveddanej&color=blue&style=flat)
 
-## ❄️ Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/rugveddanej/repo/pull/123) in [rugveddanej/repo](https://github.com/rugveddanej/repo)
-2. 🗣 Commented on [#456](https://github.com/rugveddanej/repo/issues/456) in [rugveddanej/repo](https://github.com/rugveddanej/repo)
-<!--END_SECTION:activity-->
-
-## ❄️ StackOverflow Stats
-[![StackOverflow Stats](https://stackoverflow-badge.vercel.app/?userID=YOUR_STACK_OVERFLOW_USER_ID)](https://stackoverflow.com/users/YOUR_STACK_OVERFLOW_USER_ID)
-
-## ❄️ CodePen Projects
-[![CodePen Projects](https://codepen.io/YOUR_CODEPEN_USER_ID)](https://codepen.io/YOUR_CODEPEN_USER_ID)
-
 ## ❄️ Gists and Snippets
 <p align="center">
   <a href="https://gist.github.com/rugveddanej">
