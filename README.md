@@ -23,6 +23,12 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   </a>
 </p>
 
+## ❄️ Projects Timeline
+- **27th July 2024**: Launched [LunaHub](https://github.com/rugveddanej/LunaHub)
+
+## ❄️ Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## ❄️ Website
 <p align="center">
   <a href="https://rugveddanej.me">
@@ -60,7 +66,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ![](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## ❄️ Skills and Technologies
-<div align="center" style="background: url('https://example.com/snowy-background.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
 
 ### ❄️ Programming Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -96,12 +101,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 ## ❄️ Developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## ❄️ Projects Timeline
-- **27th July 2024**: Launched [LunaHub](https://github.com/rugveddanej/LunaHub)
-
-## ❄️ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## ❄️ Visitors
 [![](https://visitcount.itsvg.in/api?id=rugveddanej&icon=1&color=12)](https://visitcount.itsvg.in)
