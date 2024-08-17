@@ -8,17 +8,16 @@
 
 ## ❄️ About Me
 
-Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
+Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs. I'm dedicated to creating the most advanced, unique, and ultra-professional solutions that leave other developers in awe.
 
 ## ❄️ Winter Projects
 - [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
-  The ultra-optimized script for the Project Slayer Roblox game, engineered to give you an unbeatable edge and redefine the gaming experience.
+  The ultimate, ultra-optimized script for the Project Slayer Roblox game, engineered to give you an unbeatable edge and redefine the gaming experience with superior, next-level performance.
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaHub&theme=snow" />
   </a>
-  <!-- Add more featured repositories as needed -->
 </p>
 
 ## ❄️ Website
@@ -29,8 +28,8 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 </p>
 
 ## ❄️ Fun Facts
-- **Did you know?** Snowflakes can have up to 200 intricate branches!
-- The largest snowflake on record was 15 inches wide.
+- **Did you know?** Snowflakes can have up to 200 intricate branches, showcasing nature's ultimate design!
+- The largest snowflake on record was 15 inches wide, a true marvel of nature's engineering.
 
 ## ❄️ Interactive Section
 <div align="center">
@@ -51,10 +50,8 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ### ❄️ GitHub Stats
 ![Rugved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&theme=snow)
 
-### ❄️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&layout=compact&theme=snow)
 
-### ❄️ Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=snow)
 
 </div>
@@ -96,6 +93,47 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 </div>
 
+## ❄️ Recent Contributions
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rugveddanej&theme=snow)
+
+## ❄️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Post Title](https://yourblog.com/post-url)
+- [Post Title](https://yourblog.com/post-url)
+<!-- BLOG-POST-LIST:END -->
+
+## ❄️ Latest YouTube Video
+[![Latest YouTube Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+## ❄️ Testimonials
+> "A true innovator in the tech space." - Fiona
+
+## ❄️ Projects Timeline
+- **2024**: Launched [LunaHub](https://github.com/rugveddanej/LunaHub)
+- **2023**: Developed an advanced AI chatbot
+- **2022**: Created a high-performance web application
+
+## ❄️ Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=rugveddanej&color=blue&style=flat)
+
+## ❄️ Coding Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rugveddanej&layout=compact&theme=snow)
+
+## ❄️ GitHub Skyline
+[![GitHub Skyline](https://github.com/rugveddanej/skyline.png)](https://skyline.github.com/rugveddanej/2024)
+
+## ❄️ Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/rugveddanej/repo/pull/123) in [rugveddanej/repo](https://github.com/rugveddanej/repo)
+2. 🗣 Commented on [#456](https://github.com/rugveddanej/repo/issues/456) in [rugveddanej/repo](https://github.com/rugveddanej/repo)
+<!--END_SECTION:activity-->
+
+## ❄️ StackOverflow Stats
+[![StackOverflow Stats](https://stackoverflow-badge.vercel.app/?userID=YOUR_STACK_OVERFLOW_USER_ID)](https://stackoverflow.com/users/YOUR_STACK_OVERFLOW_USER_ID)
+
+## ❄️ CodePen Projects
+[![CodePen Projects](https://codepen.io/YOUR_CODEPEN_USER_ID)](https://codepen.io/YOUR_CODEPEN_USER_ID)
+
 ## ❄️ Gists and Snippets
 <p align="center">
   <a href="https://gist.github.com/rugveddanej">
@@ -103,8 +141,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   </a>
 </p>
 
-
-## ❄️ Contant me
+## ❄️ Contact Me
 <p align="center">
   <a href="mailto:rugveddanej.mail@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
