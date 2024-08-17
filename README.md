@@ -19,7 +19,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaHub&theme=snow" alt="LunaHub GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaHub&theme=dark" alt="LunaHub GitHub Stats" />
   </a>
 </p>
 
@@ -51,18 +51,13 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 </p>
 
 ### ❄️ GitHub Stats
-![Rugved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugveddanej&show_icons=true&theme=snow)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&layout=compact&theme=snow)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=snow)
-
+![](https://github-readme-stats.vercel.app/api?username=rugveddanej&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## ❄️ Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=onedark" alt="Trophies" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## ❄️ Skills and Technologies
 <div align="center" style="background: url('https://example.com/snowy-background.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
@@ -99,11 +94,17 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ## ❄️ Testimonials
 > "A true innovator in the tech space." - Fiona
 
+## ❄️ Developer Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## ❄️ Projects Timeline
 - **27th July 2024**: Launched [LunaHub](https://github.com/rugveddanej/LunaHub)
 
+## ❄️ Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## ❄️ Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=rugveddanej&color=blue&style=flat)
+[![](https://visitcount.itsvg.in/api?id=rugveddanej&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ## ❄️ Gists and Snippets
 <p align="center">
