@@ -1,6 +1,6 @@
 ![Banner](ultimate-banner.jpg)
 
-<h2 align="center">Yo! I'm Rugved ❄️</h2>
+<h1 align="center">Yo! I'm Rugved ❄️</h1>
 
 <div align="center">
   <img src="avatar.jpg" width="200" height="200" />
@@ -13,6 +13,14 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ## ❄️ Winter Projects
 - [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
   An ultra-optimized script for the Project Slayer Roblox game, designed to give you an unbeatable edge.
+
+<p align="center">
+  <a href="https://github.com/rugveddanej/LunaHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaHub&theme=snow" />
+  </a>
+  <!-- Add more featured repositories as needed -->
+</p>
+
 ## ❄️ Website
 <p align="center">
   <a href="https://rugveddanej.me">
@@ -24,7 +32,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 - **Did you know?** Snowflakes can have up to 200 intricate branches!
 - The largest snowflake on record was 15 inches wide.
 
-## ✨ Interactive Section
+## ❄️ Interactive Section
 <div align="center">
 
 ### ❄️ Let's Connect
@@ -51,7 +59,48 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 </div>
 
-## 🏆 Achievements
+## ❄️ Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=onedark" alt="Trophies" />
 </div>
+
+## 🚀 Skills and Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" />
+</div>
+
+## 🧩 Gists and Snippets
+<p align="center">
+  <a href="https://gist.github.com/rugveddanej">
+    <img src="https://img.shields.io/badge/Gists-000000?style=for-the-badge&logo=github&logoColor=f3f7fa" />
+  </a>
+</p>
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rugveddanej&theme=snow" />
+</p>
+
+## 📰 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 How to reach me
+<p align="center">
+  <a href="mailto:rugved@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rugveddanej/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rugved_danej">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+</p>
