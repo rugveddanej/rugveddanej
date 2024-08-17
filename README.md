@@ -1,4 +1,7 @@
 ![Banner](ultimate-banner.jpg)
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <h1 align="center">Yo! I'm Rugved ❄️</h1>
 
