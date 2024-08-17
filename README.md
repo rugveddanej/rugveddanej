@@ -62,9 +62,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-## ❄️ Achievements
-![](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ## ❄️ Skills and Technologies
 
 ### ❄️ Programming Languages
@@ -95,6 +92,9 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
+
+## ❄️ Achievements
+![](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## ❄️ Testimonials
 > "A true innovator in the tech space." - Fiona
