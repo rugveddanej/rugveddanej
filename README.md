@@ -96,9 +96,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ## ❄️ Achievements
 ![](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## ❄️ Testimonials
-> "A true innovator in the tech space." - Fiona
-
 ## ❄️ Developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
