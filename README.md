@@ -14,8 +14,8 @@
 Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
 ## ❄️ Winter Projects
-- [**LunaHub**](https://github.com/rugveddanej/LunaHub)  
-  The ultimate, ultra-optimized script for the Project Slayer Roblox game, engineered to give you an unbeatable edge and redefine the gaming experience with superior, next-level performance.
+- [**LunaHub**](https://github.com/rugveddanej/LunaTools)  
+  LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaHub">
