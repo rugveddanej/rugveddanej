@@ -14,7 +14,7 @@
 Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
 ## ❄️ Winter Projects
-- [**LunaHub**](https://github.com/rugveddanej/LunaTools)  
+- [**LunaTools**](https://github.com/rugveddanej/LunaTools)  
   LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
 
 <p align="center">
