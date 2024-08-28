@@ -24,7 +24,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 </p>
 
 - [**LunaYTDownloader**](https://github.com/rugveddanej/LunaYTDownloader)  
-  LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
+  LunaYTDownloader is a powerful tool designed to seamlessly download YouTube videos in various formats and resolutions directly to your device using Termux.
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaYTDownloader">
