@@ -33,7 +33,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 </p>
 
 ## ❄️ Projects Timeline
-- **28th August 2024**: Launched [LunaTools](https://github.com/rugveddanej/LunaTools)
+- **27th August 2024**: Launched [LunaTools](https://github.com/rugveddanej/LunaTools)
 - **28th August 2024**: Launched [LunaYTDownloader](https://github.com/rugveddanej/LunaYTDownloader)
 
 ## ❄️ Top Contributed Repo
