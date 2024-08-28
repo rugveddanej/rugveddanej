@@ -18,13 +18,23 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
 
 <p align="center">
-  <a href="https://github.com/rugveddanej/LunaHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaHub&theme=dark" alt="LunaHub GitHub Stats" />
+  <a href="https://github.com/rugveddanej/LunaTools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaTools&theme=dark" alt="LunaHub GitHub Stats" />
+  </a>
+</p>
+
+- [**LunaYTDownloader**](https://github.com/rugveddanej/LunaYTDownloader)  
+  LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
+
+<p align="center">
+  <a href="https://github.com/rugveddanej/LunaYTDownloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaYTDownloader&theme=dark" alt="LunaHub GitHub Stats" />
   </a>
 </p>
 
 ## ❄️ Projects Timeline
-- **27th July 2024**: Launched [LunaHub](https://github.com/rugveddanej/LunaHub)
+- **28th August 2024**: Launched [LunaTools](https://github.com/rugveddanej/LunaTools)
+- **28th August 2024**: Launched [LunaYTDownloader](https://github.com/rugveddanej/LunaYTDownloader)
 
 ## ❄️ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&theme=dark&combine_all_yearly_contributions=true)
