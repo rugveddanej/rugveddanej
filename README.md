@@ -11,11 +11,11 @@
 
 ## 💻 About Me
 
-Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs. My work is a nightmare for all other developers, as I bring the ultimate level of effectiveness, speed, and unbeatable performance to every project.
+Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
 ## 💻 Projects
 - [**LunaTools**](https://github.com/rugveddanej/LunaTools)  
-  LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile with next-level optimization.
+  LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaTools">
@@ -24,7 +24,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 </p>
 
 - [**LunaYTDownloader**](https://github.com/rugveddanej/LunaYTDownloader)  
-  LunaYTDownloader is a powerful tool designed to seamlessly download YouTube videos in various formats and resolutions directly to your device using Termux, with unmatched speed and reliability.
+  LunaYTDownloader is a powerful tool designed to seamlessly download YouTube videos in various formats and resolutions directly to your device using Termux.
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaYTDownloader">
