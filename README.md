@@ -9,11 +9,11 @@
   <img src="avatar.jpg" width="150" height="150" alt="Rugved's Avatar" />
 </div>
 
-## ❄️ About Me
+## 💻 About Me
 
 Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
-## ❄️ Winter Projects
+## 💻 Projects
 - [**LunaTools**](https://github.com/rugveddanej/LunaTools)  
   LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
 
@@ -32,28 +32,24 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   </a>
 </p>
 
-## ❄️ Projects Timeline
+## 💻 Projects Timeline
 - **27th August 2024**: Launched [LunaTools](https://github.com/rugveddanej/LunaTools)
 - **28th August 2024**: Launched [LunaYTDownloader](https://github.com/rugveddanej/LunaYTDownloader)
 
-## ❄️ Top Contributed Repo
+## 💻 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## ❄️ Website
+## 💻 Website
 <p align="center">
   <a href="https://rugveddanej.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=f3f7fa" alt="Portfolio" />
   </a>
 </p>
 
-## ❄️ Fun Facts
-- **Did you know?** Snowflakes can have up to 200 intricate branches, showcasing nature's ultimate design!
-- The largest snowflake on record was 15 inches wide, a true marvel of nature's engineering.
-
-## ❄️ Interactive Section
+## 💻 Interactive Section
 <div align="center">
 
-### ❄️ Let's Connect
+### 💻 Let's Connect
 <p align="center">
   <a href="https://twitter.com/rugved_danej">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
@@ -66,15 +62,15 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   </a>
 </p>
 
-### ❄️ GitHub Stats
+### 💻 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rugveddanej&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-## ❄️ Skills and Technologies
+## 💻 Skills and Technologies
 
-### ❄️ Programming Languages
+### 💻 Programming Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -82,44 +78,44 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### ❄️ Frameworks and Libraries
+### 💻 Frameworks and Libraries
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ❄️ Tools and Platforms
+### 💻 Tools and Platforms
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### ❄️ Databases
+### 💻 Databases
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ❄️ Cloud Services
+### 💻 Cloud Services
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
-## ❄️ Achievements
+## 💻 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=rugveddanej&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## ❄️ Developer Quotes
+## 💻 Developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## ❄️ Visitors
+## 💻 Visitors
 [![](https://visitcount.itsvg.in/api?id=rugveddanej&icon=1&color=12)](https://visitcount.itsvg.in)
 
-## ❄️ Gists and Snippets
+## 💻 Gists and Snippets
 <p align="center">
   <a href="https://gist.github.com/rugveddanej">
     <img src="https://img.shields.io/badge/Gists-000000?style=for-the-badge&logo=github&logoColor=f3f7fa" alt="Gists" />
   </a>
 </p>
 
-## ❄️ Contact Me
+## 💻 Contact Me
 <p align="center">
   <a href="mailto:rugveddanej.mail@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
