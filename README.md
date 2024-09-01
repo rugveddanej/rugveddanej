@@ -1,9 +1,9 @@
-![Banner](ultimate-banner.jpg)
+![Banner](banner.jpg)
 <!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:last_update-->
 
-<h1 align="center">Yo! I'm Rugved ❄️</h1>
+<h1 align="center">Yo! I'm Rugved 💻</h1>
 
 <div align="center">
   <img src="avatar.jpg" width="150" height="150" alt="Rugved's Avatar" />
