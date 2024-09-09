@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Banner](Picsart_24-09-09_09-06-40-460.jpg)
 <!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:last_update-->
