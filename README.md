@@ -19,7 +19,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaTools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaTools&title_color=fff&icon_color=cf9fff&text_color=9f9f9f&bg_color=151515" alt="LunaHub GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaTools&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515" alt="LunaHub GitHub Stats" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 <p align="center">
   <a href="https://github.com/rugveddanej/LunaYTDownloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaYTDownloader&title_color=fff&icon_color=cf9fff&text_color=9f9f9f&bg_color=151515" alt="LunaYTDownloader GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaYTDownloader&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515" alt="LunaYTDownloader GitHub Stats" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 - **28th August 2024**: Launched [LunaYTDownloader](https://github.com/rugveddanej/LunaYTDownloader)
 
 ## 💻 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&title_color=fff&icon_color=cf9fff&text_color=9f9f9f&bg_color=151515&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515&combine_all_yearly_contributions=true)
 
 ## 💻 Website
 <p align="center">
@@ -64,7 +64,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 ### 💻 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rugveddanej&title_color=fff&icon_color=cf9fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=dark&fire=CF9FFF&ring=CF9FFF&currStreakLabel=CF9FFF&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=dark&fire=dc143c&ring=dc143c&currStreakLabel=dc143c&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&title_color=fff&icon_color=cf9fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
