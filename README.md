@@ -6,7 +6,7 @@
 <h1 align="center">Yo! I'm Rugved 💻</h1>
 
 <div align="center">
-  <img src="avatar.jpg" width="150" height="150" alt="Rugved's Avatar" />
+  <img src="main-avatar.jpg" width="150" height="150" alt="Rugved's Avatar" />
 </div>
 
 ## 💻 About Me
