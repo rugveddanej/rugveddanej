@@ -32,10 +32,19 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
   </a>
 </p>
 
-## 💻 Projects Timeline
-- **27th August 2024**: Launched [LunaTools](https://github.com/rugveddanej/LunaTools)
-- **28th August 2024**: Launched [LunaYTDownloader](https://github.com/rugveddanej/LunaYTDownloader)
+- [**LunaPWManager**](https://github.com/Team-Lunatics/LunaPWManager)  
+  LunaPWManager is a password management tool designed to help users generate and manage secure passwords with ease.
 
+<p align="center">
+  <a href="https://github.com/Team-Lunatics/LunaPWManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaPWManager&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515" alt="LunaPWManager GitHub Stats" />
+  </a>
+</p>
+
+## 💻 Projects Timeline
+- **27th August 2024**: Launched [LunaTools](https://github.com/Team-Lunatics/LunaTools)
+- **28th August 2024**: Launched [LunaYTDownloader](https://github.com/Team-Lunatics/LunaYTDownloader)
+- **23rd September 2024**: Launched [LunaPWManager](https://github.com/Team-Lunatics/LunaPWManager)
 ## 💻 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515&combine_all_yearly_contributions=true)
 
