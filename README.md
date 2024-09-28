@@ -15,7 +15,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 ## 💻 Projects
 - [**LunaTools**](https://github.com/Team-Lunatics/LunaTools)  
-  LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
+  LunaTools is a utility designed to enhance your Android device by installing the tools of Luna for Termux, making your device more powerful and versatile.
 
 <p align="center">
   <a href="https://github.com/Team-Lunatics/LunaTools">
@@ -24,9 +24,8 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 </p>
 
 ## 💻 Projects Timeline
-- **27th August 2024**: Launched [LunaTools](https://github.com/Team-Lunatics/LunaTools)
-- **28th August 2024**: Launched [LunaYTDownloader](https://github.com/Team-Lunatics/LunaYTDownloader)
-- **23rd September 2024**: Launched [LunaPWManager](https://github.com/Team-Lunatics/LunaPWManager)
+- **24th September 2024**: Launched [LunaTools](https://github.com/Team-Lunatics/LunaTools)
+
 ## 💻 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515&combine_all_yearly_contributions=true)
 
