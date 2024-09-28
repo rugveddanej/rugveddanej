@@ -14,30 +14,12 @@
 Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
 
 ## 💻 Projects
-- [**LunaTools**](https://github.com/rugveddanej/LunaTools)  
+- [**LunaTools**](https://github.com/Team-Lunatics/LunaTools)  
   LunaTools is a tool that installs the tools of Luna for Termux, designed to make your Android device more powerful and versatile.
 
 <p align="center">
-  <a href="https://github.com/rugveddanej/LunaTools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaTools&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515" alt="LunaHub GitHub Stats" />
-  </a>
-</p>
-
-- [**LunaYTDownloader**](https://github.com/rugveddanej/LunaYTDownloader)  
-  LunaYTDownloader is a powerful tool designed to seamlessly download YouTube videos in various formats and resolutions directly to your device using Termux.
-
-<p align="center">
-  <a href="https://github.com/rugveddanej/LunaYTDownloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaYTDownloader&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515" alt="LunaYTDownloader GitHub Stats" />
-  </a>
-</p>
-
-- [**LunaPWManager**](https://github.com/Team-Lunatics/LunaPWManager)  
-  LunaPWManager is a password management tool designed to help users generate and manage secure passwords with ease.
-
-<p align="center">
-  <a href="https://github.com/Team-Lunatics/LunaPWManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rugveddanej&repo=LunaPWManager&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515" alt="LunaPWManager GitHub Stats" />
+  <a href="https://github.com/Team-Lunatics/LunaTools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Lunatics&repo=LunaTools&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515" alt="LunaTools GitHub Stats" />
   </a>
 </p>
 
