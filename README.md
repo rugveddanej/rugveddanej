@@ -1,7 +1,4 @@
 ![Banner](banner.jpg)
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
 
 <h1 align="center">Yo! I'm Rugved 💻</h1>
 
@@ -41,9 +38,6 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 ### 💻 Let's Connect
 <p align="center">
-  <a href="https://twitter.com/rugved_danej">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://www.instagram.com/rugved_danej/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -82,12 +76,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 ### 💻 Databases
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 💻 Cloud Services
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -100,7 +89,7 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 ## 💻 Visitors
 [![](https://visitcount.itsvg.in/api?id=rugveddanej&icon=1&color=12)](https://visitcount.itsvg.in)
 
-## 💻 Gists and Snippets
+## 💻 Gists & Snippets
 <p align="center">
   <a href="https://gist.github.com/rugveddanej">
     <img src="https://img.shields.io/badge/Gists-000000?style=for-the-badge&logo=github&logoColor=f3f7fa" alt="Gists" />
