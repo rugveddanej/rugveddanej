@@ -6,6 +6,22 @@
   <img src="main-avatar.jpg" width="150" height="150" alt="Rugved's Avatar" />
 </div>
 
+## Table of Contents
+- [About Me](#-about-me)
+- [Projects](#-projects)
+- [Projects Timeline](#-projects-timeline)
+- [Top Contributed Repo](#-top-contributed-repo)
+- [Contributions](#-contributions)
+- [Website](#-website)
+- [Interactive Section](#-interactive-section)
+- [Skills and Technologies](#-skills-and-technologies)
+- [Achievements](#-achievements)
+- [Developer Quotes](#-developer-quotes)
+- [Visitors](#-visitors)
+- [Gists & Snippets](#-gists--snippets)
+- [Testimonials](#-testimonials)
+- [Contact Me](#-contact-me)
+
 ## 💻 About Me
 
 Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of technology with insane optimization and futuristic designs.
@@ -22,9 +38,15 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
 
 ## 💻 Projects Timeline
 - **24th September 2024**: Launched [LunaTools](https://github.com/Team-Lunatics/LunaTools)
+- **15th October 2024**: Released version 2.0 of [LunaTools](https://github.com/Team-Lunatics/LunaTools)
+- **1st November 2024**: Started working on [ProjectX](https://github.com/rugveddanej/ProjectX)
 
 ## 💻 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515&combine_all_yearly_contributions=true)
+
+## 💻 Contributions
+- Contributed to [Open Source Project A](https://github.com/example/project-a)
+- Contributed to [Open Source Project B](https://github.com/example/project-b)
 
 ## 💻 Website
 <p align="center">
@@ -95,6 +117,10 @@ Hi, I'm Rugved! A relentless developer, constantly pushing the boundaries of tec
     <img src="https://img.shields.io/badge/Gists-000000?style=for-the-badge&logo=github&logoColor=f3f7fa" alt="Gists" />
   </a>
 </p>
+
+## 💻 Testimonials
+- "Rugved is an exceptional developer with a keen eye for detail." - Client A
+- "Working with Rugved was a fantastic experience. Highly recommended!" - Collaborator B
 
 ## 💻 Contact Me
 <p align="center">
